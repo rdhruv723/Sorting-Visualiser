@@ -95,7 +95,7 @@ function SortingComponent() {
 				<div><button className='btn' id='isort' onClick={insertionSort}>Insertion Sort</button></div>
 				<div>
 					<br />
-					<a href="https://github.com/rdhruv723/Sorting-Visualiser/tree/main" target='_blank' rel='noreferrer' >
+					<a href="https://github.com/rdhruv723/Sorting-Visualiser" target='_blank' rel='noreferrer' >
 						<img style={{ width: '90px' }} src={process.env.PUBLIC_URL + "/iff.png"} alt='myGithub' />
 					</a>
 				</div>
